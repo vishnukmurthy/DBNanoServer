@@ -1,0 +1,17 @@
+ /*
+    CSS File Example
+    
+    More on CSS: http://www.w3schools.com/css/
+ 
+ */
+ 
+body{
+  background:#ffffff;
+}
+
+.glyphicon{
+	padding:5px;
+}
+.data-select.active .glyphicon {
+	background:#428bca;
+}
